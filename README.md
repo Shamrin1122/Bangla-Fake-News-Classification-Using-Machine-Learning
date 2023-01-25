@@ -13,7 +13,8 @@ The provided dataset contains around 8.5k news data on the different news portal
  Fig. 1. Histogram of frequency and content length
                                               
                                               
-                                              
+  
+  
                         
 Approach
 
@@ -38,4 +39,9 @@ Step 4: Then split the dataset into 70% and 30% where 70% is for training and 30
 Step 5:  Use Machine learning models (Random Forest, Logistic Regression, KNN, Decision Tree).
    
 Step 6:   Calculate Recall, Precision, F1 Score, and Accuracy for every model. From these Metrics, we have got the best model for which we have got the best accuracy.
+
+
+
+
+![Screenshot (37)](https://user-images.githubusercontent.com/114852884/214572876-a29ef871-70a0-409f-886e-e61d85051082.png)
 
