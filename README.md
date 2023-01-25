@@ -28,6 +28,8 @@ We have classified the news according to the following steps:
 
 Step 1:  Load the dataset.
 
+Step 2:  Remove stop words, punctuations, and special characters.
+
    
 
 
