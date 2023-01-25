@@ -32,6 +32,8 @@ Step 2:  Remove stop words, punctuations, and special characters.
 
 Step 3:  Use TF-IDF for feature extraction.
 
+Step 4: Then split the dataset into 70% and 30% where 70% is for training and 30% is for testing part.  
+
    
 
 
