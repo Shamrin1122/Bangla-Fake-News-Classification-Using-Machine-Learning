@@ -26,6 +26,8 @@ Approach
 
 We have classified the news according to the following steps:
 
+Step 1:  Load the dataset.
+
    
 
 
