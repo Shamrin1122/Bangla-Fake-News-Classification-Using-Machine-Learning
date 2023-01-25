@@ -9,17 +9,19 @@ The provided dataset contains around 8.5k news data on the different news portal
 
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/114852884/214569868-ed335830-6a25-406b-84d8-5092743414d0.png)
-                                              Fig. 1. Histogram of frequency and content length
+   Fig. 1. Histogram of frequency and content length
                                               
                                               
                                               
                         
 Approach
+
+
  The dataset contains raw data and we have cleaned this dataset by removing stop-words, special characters, and punctuations in the pre-processing stage. For separating every word, we have used here tokenization. Then we extracted the features from the news data using TF-IDF. The following diagram is for workflow:
 
 
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/114852884/214570316-7ff7d8bc-240c-414d-b8ef-96c6eccbca33.png)
-                                    Fig.2. Block Diagram of Fake News Classification
+   Fig.2. Block Diagram of Fake News Classification
 
 
