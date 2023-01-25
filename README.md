@@ -9,6 +9,7 @@ The provided dataset contains around 8.5k news data on the different news portal
 
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/114852884/214569868-ed335830-6a25-406b-84d8-5092743414d0.png)
+
  Fig. 1. Histogram of frequency and content length
                                               
                                               
