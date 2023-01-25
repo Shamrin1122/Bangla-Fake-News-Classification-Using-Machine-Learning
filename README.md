@@ -34,6 +34,7 @@ Step 3:  Use TF-IDF for feature extraction.
 
 Step 4: Then split the dataset into 70% and 30% where 70% is for training and 30% is for testing part.  
 
+Step 5:  Use Machine learning models (Random Forest, Logistic Regression, KNN, Decision Tree).
    
 
 
