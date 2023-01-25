@@ -45,3 +45,12 @@ Step 6:   Calculate Recall, Precision, F1 Score, and Accuracy for every model. F
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/114852884/214572876-a29ef871-70a0-409f-886e-e61d85051082.png)
 
+
+
+
+Conclusion
+
+
+Our main aim is to classify fake news and real news from different online portals. Here, the Logistic Regression model performs better than the other models to classify fake and real news. We can improve the accuracy by increasing the dataset and using deep learning models in the future.
+
+
