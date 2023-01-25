@@ -25,12 +25,6 @@ Approach
 
 
 We have classified the news according to the following steps:
-Step 1:  Load the dataset.
-Step 2:  Remove stop words, punctuations, and special characters.
-Step 3:  Use TF-IDF for feature extraction.
-Step 4: Then split the dataset into 70% and 30% where 70% is for training and 30% is for testing part.  
-Step 5:  Use Machine learning models (Random Forest, Logistic Regression, KNN, Decision Tree).
-Step 6:   Calculate Recall, Precision, F1 Score, and Accuracy for every model. From these Metrics, we have got the best model for which we have got the best accuracy.
 
    
 
