@@ -30,6 +30,8 @@ Step 1:  Load the dataset.
 
 Step 2:  Remove stop words, punctuations, and special characters.
 
+Step 3:  Use TF-IDF for feature extraction.
+
    
 
 
